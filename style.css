@@ -10,7 +10,7 @@
 }
 
 .front-cover-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("lookin_up.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photography_covers/lookin_up.png");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -19,7 +19,7 @@
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("camera_face.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photography_covers/camera_face.jpg");
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
@@ -28,7 +28,7 @@
 }
 
 .nostalgia {
-  background-image: url("kids playground.png");
+  background-image: url("photography_covers/kids\ playground.png");
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
@@ -37,7 +37,7 @@
 }
 
 .immigration {
-  background-image: url("immigrant_cover.png");
+  background-image: url("photography_covers/immigrant_cover.png");
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
@@ -46,7 +46,7 @@
 }
 
 .parramatta {
-  background-image: url("parra_square.jpg");
+  background-image: url("photography_covers/parra_square.jpg");
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
