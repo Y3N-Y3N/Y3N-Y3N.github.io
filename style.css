@@ -19,7 +19,7 @@
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photography_covers/camera_face.JPG");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photography_covers/camera_face.jpg");
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
@@ -46,7 +46,7 @@
 }
 
 .parramatta {
-  background-image: url("photography_covers/parra_square.JPG");
+  background-image: url("photography_covers/parra_square.jpg");
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
