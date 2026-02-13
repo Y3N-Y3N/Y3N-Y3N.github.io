@@ -19,7 +19,7 @@
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photography_covers/camera_face.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photography_covers/camera_face.JPG");
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
@@ -46,7 +46,7 @@
 }
 
 .parramatta {
-  background-image: url("photography_covers/parra_square.jpg");
+  background-image: url("photography_covers/parra_square.JPG");
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
@@ -89,7 +89,7 @@
 
 .about-me {
   padding: 60px 20px;
-  background-color: #f4f4f4; /* light grey background */
+  background-color: #f4f4f4; 
 }
 
 .about-container {
@@ -98,11 +98,11 @@
   gap: 30px;
   max-width: 900px;
   margin: 0 auto;
-  flex-wrap: nowrap; /* responsive for mobile */
+  flex-wrap: nowrap; 
 }
 
 .about-text {
-  flex: 1; /* remaining space for paragraph */
+  flex: 1; 
   font-size: 18px;
   line-height: 1.6;
 }
@@ -156,11 +156,11 @@
 }
 
 .slideshow-text-container {
-  display: flex;               /* side-by-side layout */
-  align-items: center;         /* vertical centering */
-  justify-content: center;     /* center the whole block horizontally */
-  gap: 50px;                   /* space between slideshow and text */
-  margin: 0 auto;           /* center container on page */
+  display: flex;               
+  align-items: center;        
+  justify-content: center;     
+  gap: 50px;                   
+  margin: 0 auto;           
 }
 
 .rounded-rectangle {
@@ -187,6 +187,7 @@
   text-align: center;
   box-shadow: 0 10px 6px rgba(225, 225, 225, 0.3);
 }
+
 /* Hide the images by default */
 .mySlides {
   display: none;
@@ -209,25 +210,24 @@
 }
 
 .prev {
-  left: -60px;  /* outside left */
+  left: -60px;  
 }
 
 .next {
-  right: -60px; /* outside right */
+  right: -60px; 
 }
 
-/* Position the "next button" to the right */
+
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 
-/* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
 }
 
-/* Caption text */
+
 .text {
   color: #f2f2f2;
   font-size: 15px;
