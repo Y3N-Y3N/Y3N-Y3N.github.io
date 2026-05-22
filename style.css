@@ -107,6 +107,22 @@
   gap: 15px;
 }
 
+.icon-row {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-row img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  opacity: 0.85;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+
 .about-text {
   flex: 1; 
   font-size: 18px;
