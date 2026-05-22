@@ -1,5 +1,5 @@
-A beginner-friendly web development project built using **vanilla HTML, CSS, and JavaScript**.  
-This project was created as part of the learning process to explore core front-end concepts including page structure, styling, layout design, and interactive functionality without using external frameworks or libraries.
+A beginner web development project built using **vanilla HTML, CSS, and JavaScript**.  
+This project was created as part of the learning process to explore foundational front-end concepts including page structure, styling, layout design, and interactive functionality without using external frameworks or libraries.
 
 ---
 
@@ -23,4 +23,4 @@ The project focuses on:
 - Interactive components using JavaScript
 - Clean and modern layout
 - Dynamic content updates
-- Beginner-focused architecture and code structure
+- Front end design
