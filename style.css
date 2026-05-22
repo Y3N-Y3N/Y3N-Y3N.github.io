@@ -101,6 +101,14 @@
   flex-wrap: nowrap; 
 }
 
+.project-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
 .about-text {
   flex: 1; 
   font-size: 18px;
