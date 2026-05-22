@@ -103,16 +103,10 @@
 
 .project-container {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 30px;
   max-width: 900px;
   margin: 0 auto;
-}
-
-.project-image {
-  display: flex;
-  justify-content: center;
-  border-radius: 20px;
 }
 
 .about-text {
